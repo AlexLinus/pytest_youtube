@@ -5,3 +5,5 @@ venv
 .coveragerc
 htmlcov
 db.sqlite3
+__pycache__/
+*.pyc
