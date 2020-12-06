@@ -1,7 +1,0 @@
-venv
-.idea
-.coverage
-.pytest_cache
-.coveragerc
-htmlcov
-db.sqlite3
